@@ -17,7 +17,7 @@ I am a **dedicated problem solver** and **full-stack developer** passionate abou
 🛠 Django | Django REST Framework (Python)  
 
 **Database:**  
-📂 SQLite | MySQL | PostgreSQL  
+📂 SQLite | SQL | MySQL | PostgreSQL  
 
 **Version Control & Tools:**  
 🔗 Git | GitHub | VS Code | Android Studio | Visual Studio  
