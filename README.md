@@ -75,6 +75,9 @@ I am a **dedicated problem solver** and **full-stack developer** with a passion 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joydip12321&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joydip12321&layout=compact&theme=dark)
 
+### **📈 Profile Views Counter**
+![Profile Views](https://komarev.com/ghpvc/?username=joydip12321&color=brightgreen)
+
 ---
 
 ## **📬 Contact Me**
@@ -86,3 +89,4 @@ I am a **dedicated problem solver** and **full-stack developer** with a passion 
 ---
 
 Thank you for visiting my profile! 😊 Let's build something great together! 🚀
+
