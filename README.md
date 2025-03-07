@@ -1,10 +1,10 @@
 # Hi, I'm Joydip Das 👋
 
 **Jr. Software Engineer | Full-Stack Developer**  
-Passionate about building scalable web applications using modern technologies like **React JS**, **Django**, and **Tailwind CSS**. I specialize in creating responsive, user-friendly websites and web applications.  
+I am dedicated problem solver and passionate about building scalable web applications using modern technologies like **React JS**, **Django REST Framework(Python)**. I specialize in creating responsive, user-friendly websites and web applications.  
 
 📚 **Education**:  
-**CSE, Jashore University of Science and Technology (JUST)**  
+**Jashore University of Science and Technology (JUST)**  
 - Bachelor of Science in Computer Science and Engineering (B.Sc. in CSE)
 
 🌏 **Location**:  
@@ -15,13 +15,13 @@ Passionate about building scalable web applications using modern technologies li
 ## 🔧 Technologies & Tools
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 - **Backend**: Django, Django REST Framework
-- **Database**: SQLite, PostgreSQL
+- **Database**: SQLite, SQL, PostgreSQL
 - **Version Control**: Git, GitHub
 
 ---
 
 ## 💼 Professional Experience
-- **Jr. Software Engineer** | ITLogiko  
+- **Jr. Software Engineer** | Utshab Technology Ltd.  
 - **Frontend Developer** | E-commerce and inventory systems
 - **Project Work**: Developed web applications for e-commerce, event management, and more.
 
