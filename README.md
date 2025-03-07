@@ -7,4 +7,4 @@ Jr. Software Engineer | Full-Stack Developer | React JS, Django, Tailwind CSS | 
 📧 **Email:** [mdjoydip@gmail.com](mailto:mdjoydip@gmail.com)  
 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
 🔗 **LinkedIn:** [joydipdas](https://linkedin.com/in/joydipdas)  
-🐦 **Twitter:** [@joydip12321](https://twitter.com/joydip12321)
+🐦 **Twitter:** https://x.com/JoydipD70815351
