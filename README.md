@@ -71,7 +71,7 @@ I am a **dedicated problem solver** and **full-stack developer** with a passion 
 
 ## **📊 GitHub Stats & Contributions**
 
-![GitHub Streak](https://streak-stats.demolab.com?username=joydip12321&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=joydip12321&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joydip12321&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joydip12321&layout=compact&theme=dark)
 
